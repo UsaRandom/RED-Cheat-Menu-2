@@ -6,6 +6,7 @@ A full-featured, in-game cheat menu for **Cyberpunk 2077**, written in [redscrip
 > **Nexus Mods:** https://www.nexusmods.com/cyberpunk2077/mods/30063
 
 ---
+<img width="1847" height="1043" alt="image" src="https://github.com/user-attachments/assets/09ee9850-7e9c-4397-87a3-b99bb3c82b2f" />
 
 ## Opening the Menu
 
